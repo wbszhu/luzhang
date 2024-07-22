@@ -34,10 +34,10 @@ publication_types: ['article-journal']
 publication: In *BMC Biology*
 publication_short: In *BMC Biol.*
 
-abstract: (这里需要插入论文的实际摘要)
+abstract: Gene expression programs are intimately linked to the interplay of active cis regulatory elements mediated by chromatin contacts and associated RNAs. Genome-wide association studies (GWAS) have identified many variants in these regulatory elements that can contribute to phenotypic diversity. However, the functional interpretation of these variants remains nontrivial due to the lack of chromatin contact information or limited contact resolution. Furthermore, the distribution and role of chromatin-associated RNAs in gene expression and chromatin conformation remain poorly understood. To address this, we first present a comprehensive interaction map of nuclear dynamics of 3D chromatin-chromatin interactions (H3K27ac BL-HiChIP) and RNA-chromatin interactions (GRID-seq) to reveal genomic variants that contribute to complex skeletal muscle traits.
 
 # Summary. An optional shortened abstract.
-summary: 本研究通过增强子-启动子相互作用图谱，为理解猪基因组中与骨骼肌相关性状提供了新见解。
+summary: we first present a comprehensive interaction map of nuclear dynamics of 3D chromatin-chromatin interactions (H3K27ac BL-HiChIP) and RNA-chromatin interactions (GRID-seq) to reveal genomic variants that contribute to complex skeletal muscle traits.
 
 tags:
   - Enhancer-promoter interactions
