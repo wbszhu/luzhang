@@ -127,10 +127,6 @@ awards:
 ## About Me
 I am a research scientist with a Ph.D. in Animal Genetics, Breeding, and Reproduction from Huazhong Agricultural University. My academic journey has taken me across four prestigious institutions, where I have developed robust expertise in 3D genomics, computational data analysis, and the development of advanced genomics technologies.
 
-My research focuses on single-cell multi-omics and spatial omics, aiming to uncover the intricate details of cellular contexts and interactions. I am particularly passionate about the emerging field of spatial genomics, which provides an additional dimension of spatial information, enhancing our understanding of complex biological systems.
-
-In addition to my genomics work, I have studied deep learning and its applications in genomics, specifically using the PyTorch framework. While I have yet to apply this knowledge to specific projects, I have conducted extensive literature research and am eager to delve deeper into this intersection of technology and biology.
-
 My curiosity and adaptability have been the driving forces behind my academic and research pursuits. I am constantly seeking new challenges and opportunities to apply my skills and knowledge to innovative research projects. I am enthusiastic about collaborating with fellow researchers and contributing meaningfully to the scientific community.
 
 Please feel free to reach out if you are interested in collaborating or discussing potential research opportunities.
