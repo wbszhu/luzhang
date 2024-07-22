@@ -125,8 +125,6 @@ awards:
 ---
 
 ## About Me
-I am a research scientist with a Ph.D. in Animal Genetics, Breeding, and Reproduction from Huazhong Agricultural University. My academic journey has taken me across four prestigious institutions, where I have developed robust expertise in 3D genomics, computational data analysis, and the development of advanced genomics technologies.
+I am a research scientist with a Ph.D. in Animal Genetics, Breeding, and Reproduction from Huazhong Agricultural University. I have developed robust expertise in 3D genomics, computational data analysis, and the development of advanced genomics technologies.
 
 My curiosity and adaptability have been the driving forces behind my academic and research pursuits. I am constantly seeking new challenges and opportunities to apply my skills and knowledge to innovative research projects. I am enthusiastic about collaborating with fellow researchers and contributing meaningfully to the scientific community.
-
-Please feel free to reach out if you are interested in collaborating or discussing potential research opportunities.
