@@ -32,7 +32,6 @@ profiles:
   - icon: brands/github
     url: https://github.com/wbszhu
 
-
 interests:
   - Three-dimensional genomics
   - Single-cell multi-omics
@@ -42,12 +41,12 @@ interests:
 education:
   - area: PhD in Animal Genetics, Breeding, and Reproduction
     institution: Huazhong Agricultural University
-    date_start: 2024-06-30
-    date_end: 2020-09-01
+    date_start: 2020-09-01
+    date_end: 2024-06-30
   - area: Visiting PhD in Animal Genetics, Breeding, and Reproduction
     institution: Center for Quantitative Genetics and Genomics, Aarhus University
-    date_start: 2024-04-20
-    date_end: 2023-11-01   
+    date_start: 2023-11-01
+    date_end: 2024-04-20
   - area: Exchange Student in Animal Science
     institution: South China Agricultural University
     date_start: 2014-09-01
@@ -104,7 +103,7 @@ languages:
 awards:
   - title: Hi-Tag: a simple and efficient method for identifying protein-mediated long-range chromatin interactions with low cell numbers
     url: https://www.sciengine.com/SCLS/doi/10.1007/s11427-023-2441-0;JSESSIONID=621f95e0-29ae-4c98-8b27-5aabb650fd6b
-    date: '2024-1-23'
+    date: '2024-01-23'
     awarder: Coursera
     icon: coursera
     summary: |
@@ -126,7 +125,7 @@ awards:
 ---
 
 ## About Me
-I am a research scientist with a Ph.D. in Animal Genetics, Breeding, and Reproduction from Huazhong Agricultural University. My academic journey has taken me across four prestigious institutions, where I have developed a robust expertise in 3D genomics, computational data analysis, and the development of advanced genomics technologies.
+I am a research scientist with a Ph.D. in Animal Genetics, Breeding, and Reproduction from Huazhong Agricultural University. My academic journey has taken me across four prestigious institutions, where I have developed robust expertise in 3D genomics, computational data analysis, and the development of advanced genomics technologies.
 
 My research focuses on single-cell multi-omics and spatial omics, aiming to uncover the intricate details of cellular contexts and interactions. I am particularly passionate about the emerging field of spatial genomics, which provides an additional dimension of spatial information, enhancing our understanding of complex biological systems.
 
