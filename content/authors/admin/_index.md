@@ -5,7 +5,7 @@ name_zh: 张露
 
 # Status emoji
 status:
-  icon: 🎨🎣🥾
+  icon: 🎨
 
 # Is this the primary user of the site?
 superuser: true
@@ -34,16 +34,25 @@ profiles:
 
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Three-dimensional genomics
+  - Single-cell multi-omics
+  - Spatial omics
+  - Applications of deep learning in genomics
 
 education:
-  - area: Master&PhD ANIMAL GENETICS, BREEDING AND REPRODUCTION
+  - area: PhD in Animal Genetics, Breeding, and Reproduction
     institution: Huazhong Agricultural University
     date_start: 2024-06-30
     date_end: 2020-09-01
-  - area: BSc ANIMAL SCIENCE
+  - area: Visiting PhD in Animal Genetics, Breeding, and Reproduction
+    institution: Center for Quantitative Genetics and Genomics, Aarhus University
+    date_start: 2024-04-20
+    date_end: 2023-11-01   
+  - area: Exchange Student in Animal Science
+    institution: South China Agricultural University
+    date_start: 2014-09-01
+    date_end: 2016-06-30
+  - area: BSc in Animal Science
     institution: ShiHeZi University
     date_start: 2013-09-01
     date_end: 2017-06-30
@@ -84,11 +93,9 @@ skills:
 
 languages:
   - name: English
-    percent: 100
-  - name: Chinese
     percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Chinese
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
