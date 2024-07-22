@@ -102,33 +102,36 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
+  - title: Hi-Tag: a simple and efficient method for identifying protein-mediated long-range chromatin interactions with low cell numbers
+    url: https://www.sciengine.com/SCLS/doi/10.1007/s11427-023-2441-0;JSESSIONID=621f95e0-29ae-4c98-8b27-5aabb650fd6b
+    date: '2024-1-23'
     awarder: Coursera
     icon: coursera
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
+      Building on the foundations of BL-HiChIP, in 2023, our team developed Hi-Tag, a new chromatin spatial conformation capture technology tailored for low-cell-number samples. This technology simplifies the experimental process and optimizes the data processing method. It only requires 100,000 cells and allows for the identification of high-confidence chromatin loops mediated by specific histones or transcription factors without the need for additional ChIP-Seq/CUT&Tag data. The Hi-Tag technology was presented through a poster at the 10th International Conference on 3D Genomics in Hangzhou, Zhejiang, where it received appreciation from many researchers.
+  - title: Enhancer-promoter interaction maps provide insights into skeletal muscle-related traits in pig genome
+    url: https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-022-01322-2
+    date: '2022-06-09'
     awarder: edX
     icon: edx
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
+      In 2022, our research team developed the BL-HiChIP technique. By applying this technology in conjunction with GRID-seq and GWAS data, we successfully identified functional genetic variants associated with key agricultural traits, such as KLF6 (related to days to 100 kg), MXRA8 (related to lean meat percentage), and TAF11 (related to loin muscle depth). 
+  - title: Identification and Conservation Analysis of Cis-Regulatory Elements in Pig Liver
+    url: https://pubmed.ncbi.nlm.nih.gov/31067820/
+    date: '2019-05-07'
     awarder: datacamp
     icon: datacamp
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      The liver is crucial in metabolism and pig production, yet the functional annotation of pig liver's noncoding regions is underexplored. We identified 102,373 cis-regulatory elements in pig liver, including enhancers, promoters, super-enhancers, and broad H3K4me3 domains, and highlighted 26 core transcription regulatory factors. Our findings showed similarities between pig, human, and cattle cis-regulatory elements. Although only ~30% of pig liver enhancers are functionally conserved in human liver tissue, ~78% of pig liver enhancer orthologues can function in other human tissues. We observed that genes associated with super-enhancers have a higher conservation rate, with ~54% of core regulatory factors being consistent across the liver of these species. This study provides a valuable resource for future gene regulatory research in pigs and enhances our understanding of cis-regulatory element functions across mammals.
 ---
 
 ## About Me
+I am a research scientist with a Ph.D. in Animal Genetics, Breeding, and Reproduction from Huazhong Agricultural University. My academic journey has taken me across four prestigious institutions, where I have developed a robust expertise in 3D genomics, computational data analysis, and the development of advanced genomics technologies.
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My research focuses on single-cell multi-omics and spatial omics, aiming to uncover the intricate details of cellular contexts and interactions. I am particularly passionate about the emerging field of spatial genomics, which provides an additional dimension of spatial information, enhancing our understanding of complex biological systems.
+
+In addition to my genomics work, I have studied deep learning and its applications in genomics, specifically using the PyTorch framework. While I have yet to apply this knowledge to specific projects, I have conducted extensive literature research and am eager to delve deeper into this intersection of technology and biology.
+
+My curiosity and adaptability have been the driving forces behind my academic and research pursuits. I am constantly seeking new challenges and opportunities to apply my skills and knowledge to innovative research projects. I am enthusiastic about collaborating with fellow researchers and contributing meaningfully to the scientific community.
+
+Please feel free to reach out if you are interested in collaborating or discussing potential research opportunities.
