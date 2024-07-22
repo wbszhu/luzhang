@@ -101,7 +101,7 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Hi-Tag: a simple and efficient method for identifying protein-mediated long-range chromatin interactions with low cell numbers
+  - title: Hi-Tag a simple and efficient method for identifying protein-mediated long-range chromatin interactions with low cell numbers
     url: https://www.sciengine.com/SCLS/doi/10.1007/s11427-023-2441-0;JSESSIONID=621f95e0-29ae-4c98-8b27-5aabb650fd6b
     date: '2024-01-23'
     awarder: Coursera
