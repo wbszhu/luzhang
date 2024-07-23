@@ -36,7 +36,7 @@ interests:
   - Three-dimensional genomics
   - Single-cell multi-omics
   - Spatial omics
-  - Applications of deep learning in genomics
+  - Deep Learning in Genomics
 
 education:
   - area: PhD in Animal Genetics, Breeding, and Reproduction
