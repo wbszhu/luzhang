@@ -1,7 +1,7 @@
 ---
 # Display name
-name: Lu Zhang
-name_zh: 张露
+#name: Lu Zhang
+#name_zh: 张露
 
 # Status emoji
 status:
@@ -14,11 +14,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD
+role: Lu Zhang
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Huazhong Agricultural University
+  - name: PhD|Huazhong Agricultural University
     url: http://www.hzau.edu.cn/
 
 # Social network links
