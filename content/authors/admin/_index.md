@@ -18,7 +18,7 @@ role: Lu Zhang
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: PhD|Huazhong Agricultural University
+  - name: Huazhong Agricultural University
     url: http://www.hzau.edu.cn/
 
 # Social network links
