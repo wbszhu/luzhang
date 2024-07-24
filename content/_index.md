@@ -51,7 +51,7 @@ sections:
         exclude_featured: false
     design:
       view: citation
-- block: collection
+  - block: collection
     id: artwork
     content:
       title: Artwork
@@ -60,21 +60,12 @@ sections:
           - artwork
         featured_only: true
     design:
-      # 改为单列布局，使每个作品占据更多空间
       columns: '1'
-      # 使用更大的视图样式
       view: showcase
-      # 增加间距，让每个作品有更多呼吸空间
       spacing:
         padding: ["2rem", "0", "2rem", "0"]
-      # 可选：添加背景色或图片以增强视觉效果
       background:
         color: 'white'
-        # image:
-        #   filename: background.jpg
-        #   filters:
-        #     brightness: 1
-      # 可选：增加CSS类以自定义样式
       css_class: 'artwork-showcase'
   - block: collection
     content:
