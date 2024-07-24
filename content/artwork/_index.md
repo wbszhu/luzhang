@@ -11,3 +11,4 @@ image:
   caption: ''
   filename: ''
 ---
+![West Lake] (./featured.png)

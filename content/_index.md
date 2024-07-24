@@ -62,7 +62,7 @@ sections:
         featured_only: true
     design:
       columns: '1'
-      view: masonry
+      view: article-grid
       background:
         color: 'rgba(247, 247, 247, 1)'
       spacing:
