@@ -51,7 +51,7 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: portfolio
+  - block: collection
     id: artwork
     content:
       title: Artwork
