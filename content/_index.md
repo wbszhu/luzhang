@@ -63,11 +63,6 @@ sections:
     design:
       columns: '1'
       view: article-grid
-      background:
-        color: 'rgba(247, 247, 247, 1)'
-      spacing:
-        padding: ["4rem", "0", "4rem", "0"]
-      css_class: 'artwork-showcase'
   - block: collection
     content:
       title: Recent Publications
