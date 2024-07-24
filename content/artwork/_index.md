@@ -1,5 +1,5 @@
 ---
-title: art
+title: artwork
 cms_exclude: true
 #url: talk
 
@@ -9,5 +9,5 @@ view: card
 # Optional cover image (relative to `assets/media/` folder).
 image:
   caption: ''
-  filename: 'content/artwork/1stt/westlake.png'
+  filename: ''
 ---
