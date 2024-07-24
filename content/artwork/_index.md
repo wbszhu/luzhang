@@ -9,5 +9,5 @@ view: card
 # Optional cover image (relative to `assets/media/` folder).
 image:
   caption: ''
-  filename: 'westlake.png'
+  filename: 'content/artwork/1stt/westlake.png'
 ---
