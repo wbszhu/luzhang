@@ -61,9 +61,7 @@ sections:
         featured_only: true
     design:
       columns: '1'
-      view: showcase
-      spacing:
-        padding: ["2rem", "0", "2rem", "0"]
+      view: portfolio
       background:
         color: 'white'
       css_class: 'artwork-showcase'
