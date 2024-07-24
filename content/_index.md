@@ -54,7 +54,7 @@ sections:
   - block: collection
     id: artwork
     content:
-      title: art work
+      title: Artwork
       filters:
         folders:
           - artwork
