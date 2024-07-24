@@ -51,19 +51,22 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: collection
+  - block: portfolio
     id: artwork
     content:
       title: Artwork
+      subtitle: A collection of my paintings and drawings
       filters:
         folders:
           - artwork
         featured_only: true
     design:
       columns: '1'
-      view: portfolio
+      view: masonry
       background:
-        color: 'white'
+        color: 'rgba(247, 247, 247, 1)'
+      spacing:
+        padding: ["4rem", "0", "4rem", "0"]
       css_class: 'artwork-showcase'
   - block: collection
     content:
