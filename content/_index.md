@@ -59,15 +59,9 @@ sections:
       filters:
         folders:
           - artwork
-        featured_only: true
     design:
-      columns: '1'
-      view: masonry
-      background:
-        color: 'rgba(247, 247, 247, 1)'
-      spacing:
-        padding: ["4rem", "0", "4rem", "0"]
-      css_class: 'artwork-showcase'
+      view: article-grid
+      columns: 1
   - block: collection
     content:
       title: Recent Publications
