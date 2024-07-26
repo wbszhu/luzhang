@@ -1,0 +1,4 @@
+.list {
+    /* 添加!important表示覆盖默认的设置 */
+    background-image: url("/workspaces/luzhang/content/artwork/westlake/featured.png") !important;
+}
