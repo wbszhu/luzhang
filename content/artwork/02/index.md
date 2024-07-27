@@ -1,5 +1,5 @@
 ---
-title: ''
+title: 'For friend's cat'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
