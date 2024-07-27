@@ -1,5 +1,6 @@
 ---
 title: 'For cat'
+date: 2024-07-07
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

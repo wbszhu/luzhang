@@ -1,5 +1,6 @@
 ---
 title: 'Lotus flowers in West Lake'
+date: 2023-07-31
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
