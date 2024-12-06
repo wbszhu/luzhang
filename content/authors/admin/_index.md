@@ -18,8 +18,8 @@ role: Lu Zhang
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Huazhong Agricultural University
-    url: http://www.hzau.edu.cn/
+  - name: Stanford University
+    url: https://profiles.stanford.edu/351436
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
