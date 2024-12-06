@@ -125,6 +125,8 @@ awards:
 ---
 
 ## About Me
-I recently earned my Ph.D. in Animal Genetics, Breeding, and Reproduction from Huazhong Agricultural University. My doctoral research focused on bioinformatics data analyses, especially 3D genomics and single-cell omics. I have developed strong skills in these areas. I am also very interested in spatial omics and deep learning.
+I am a postdoctoral research scholar in Dr.Anna Gloyn's Translational Genomics of Diabetes Lab. During my master's and doctoral studies, I focused on epigenomics and single-cell multi-omics analysis, with a particular emphasis on 3D genomics. My research included developing Hi-Tag, a chromatin conformation capture technique designed specifically for small cell samples. This method provides valuable insights into the organization of chromatin within the cell.
 
-I am curious and adaptable. These traits drive my academic pursuits. I look forward to new challenges in research. I want to apply my skills to innovative projects. I am eager to collaborate with experienced researchers. My goal is to contribute to the scientific community.
+I have built strong expertise in integrating various types of biological data, including RNA-seq, ATAC-seq, chromatin interaction data, and single-cell data. I have also contributed as a co-author to several research projects, including studies that utilized genome-wide association studies (GWAS) and GTEx data to link multi-omics data with functional genomics. These experiences have allowed me to develop a deep understanding of how to integrate diverse genomic data to address complex biological questions.
+
+Currently, I am applying my research skills to explore questions related to diabetes.
