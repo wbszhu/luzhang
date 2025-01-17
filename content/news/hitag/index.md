@@ -1,54 +1,18 @@
 ---
-title: Hi-Tag (10th International Symposium on 3D Genomics)
-
-event: Hugo Blox Builder Conference
-s
-location: Hugo Blox Builder HQ
+title: Hi-Tag Poster
+event: 10th International Symposium on 3D Genomics
+location: Platinum Hanjue Hotel
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
-
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
-all_day: false
-
-# Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
-
+  city: Hangzhou
+  region: Zhejiang
+  country: China
+date: '2023-07-15'
+date_end: '2023-07-18'
 authors:
-  - admin
-
-tags: []
-
-# Is this a featured talk? (true/false)
-featured: false
-
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
-
+  - Zhang Lu*, Qi Xiaolong*, Zhao Qiulin, Zhou Peng, Zhang Saixian, Li Jingjin, Zheng Zhuqing,Xiang Yue, Dai Xueting, Jin Zhe, Jian Yaobang, Li Xinyun, Fu Liangliang, Zhao Shuhong
 url_code: 'https://github.com/wbszhu/HiTag'
-
-projects:
-  - Hi-Tag
+image:
+  src: 'hitag.jpg'
+  alt: 'Event Poster for Hi-Tag'
+  caption: 'Poster for the 10th International Symposium on 3D Genomics'
 ---
-
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
-
-Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page.
